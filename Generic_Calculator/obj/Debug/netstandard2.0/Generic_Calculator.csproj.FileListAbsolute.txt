@@ -1,0 +1,9 @@
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\obj\Debug\netstandard2.0\Generic_Calculator.csprojAssemblyReference.cache
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\obj\Debug\netstandard2.0\Generic_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\obj\Debug\netstandard2.0\Generic_Calculator.AssemblyInfoInputs.cache
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\obj\Debug\netstandard2.0\Generic_Calculator.AssemblyInfo.cs
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\bin\Debug\netstandard2.0\Generic_Calculator.deps.json
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\bin\Debug\netstandard2.0\Generic_Calculator.dll
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\bin\Debug\netstandard2.0\Generic_Calculator.pdb
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\obj\Debug\netstandard2.0\Generic_Calculator.dll
+C:\Users\nitika.kansal\source\repos\Generic_Calculator\Generic_Calculator\obj\Debug\netstandard2.0\Generic_Calculator.pdb
